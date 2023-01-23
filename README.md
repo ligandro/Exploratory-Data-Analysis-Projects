@@ -14,10 +14,10 @@
       <a href="#projects"> ➤ Projects</a>
       <ul>
         <li><a href="#pR1---arsenal-top-4-requirements">PR1 - Arsenal Top 4 Requirements</a></li>
-        <li><a href="#13---xG-vS-g">13-xG VS G</a></li>
-        <li><a href="#18---touch-locations">18- Touch Locations</a></li>
-        <li><a href="#22---goals-timeline">22-Goals Timeline</a></li>
-        <li><a href="#23---long-goalkicks">23- % Long Goalkicks</a></li>
+        <li><a href="#pR2---personal-gmail-data-traffic-visualization">PR2- Personal Gmail Data Traffic Visualization</a></li>
+        <li><a href="#pR3---titanic-data-exploratory-analysis-and-data-visualization">PR3 - Titanic data exploratory analysis and data visualization</a></li>
+        <li><a href="#pR5---nobel-prize-dataset-visualization">PR5- Nobel Prize Dataset Visualization</a></li>
+        <li><a href="#pR7---terrorism-dataset-visualization">PR7- Terrorism Dataset Visualizations</a></li>
         <li><a href="#33---oVA">33-OVA</a></li>
         <li><a href="#34---xT">34-xT 2</a></li>
         <li><a href="#42---sOT">42-SOT</a></li>
