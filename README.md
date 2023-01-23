@@ -7,10 +7,6 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#introduction"> ➤ Introduction</a></li>
-    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
-    <li><a href="#workflow"> ➤ Workflow</a></li>
-    <li>
       <a href="#projects"> ➤ Projects</a>
       <ul>
         <li><a href="#pR1---arsenal-top-4-requirements">PR1 - Arsenal Top 4 Requirements</a></li>
