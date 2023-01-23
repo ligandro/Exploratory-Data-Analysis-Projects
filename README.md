@@ -17,11 +17,7 @@
         <li><a href="#pR2---personal-gmail-data-traffic-visualization">PR2- Personal Gmail Data Traffic Visualization</a></li>
         <li><a href="#pR3---titanic-data-exploratory-analysis-and-data-visualization">PR3 - Titanic data exploratory analysis and data visualization</a></li>
         <li><a href="#pR5---nobel-prize-dataset-visualization">PR5- Nobel Prize Dataset Visualization</a></li>
-        <li><a href="#pR7---terrorism-dataset-visualization">PR7- Terrorism Dataset Visualizations</a></li>
-        <li><a href="#33---oVA">33-OVA</a></li>
-        <li><a href="#34---xT">34-xT 2</a></li>
-        <li><a href="#42---sOT">42-SOT</a></li>
-        <li><a href="#53---gD-time">53-GD Time</a></li>
+        <li><a href="#pR7---terrorism-dataset-visualization">PR7- Terrorism Dataset Visualization</a></li>
       </ul>
     </li>
   </ol>
@@ -73,10 +69,3 @@
   <img width="40%" src="./images/PR7.png"> &nbsp &nbsp 
 </p>
 
-
-**Summary:** Compare Shots on Target taken and conceded by teams in the Premier League using scatter plot.Good teams take SOT Taken and concede less SOT 
-<p align="center">
-  <img width="40%" src="./images/42.png"> &nbsp &nbsp 
-</p>
-
-### 53 - GD Time
