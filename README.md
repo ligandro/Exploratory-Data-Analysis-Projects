@@ -52,7 +52,7 @@
   <img width="35%" src="./images/PR3.png"> &nbsp &nbsp
 </p>
 
-### PR5- Nobel Prize Dataset Visualization
+### PR5 - Nobel Prize Dataset Visualization
 
 **Summary:** Visualize nobel prize winners dataset.
 
@@ -61,7 +61,7 @@
 </p>
 
 
-### PR7- Terrorism Dataset Visualization
+### PR7 - Terrorism Dataset Visualization
 
 **Summary:** Visualising terrorism dataset and getting insight on terrorism trends.
 
